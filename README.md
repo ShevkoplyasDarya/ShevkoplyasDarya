@@ -1,7 +1,8 @@
 ### Hi there 👋, I'm Darya, QA-engineer
-
+<!--
 #### :woman_technologist: *currently working at Luxoft*
 #### :woman_student: *currently studying at QA Automation school https://qa.guru*
+-->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShevkoplyasDarya&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
