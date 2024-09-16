@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Darya, QA-engineer
+### Hi there 👋, I'm Daria, QA-engineer
 <!--
 #### :woman_technologist: *currently working at Luxoft*
 #### :woman_student: *currently studying at QA Automation school https://qa.guru*
